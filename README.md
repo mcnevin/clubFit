@@ -1,4 +1,4 @@
 clubFit
 ===========
 
-public repo for clubFit website
+repo for clubFit Public website
